@@ -1,6 +1,6 @@
 # Reinforcement-Learning---Research
 
-Implemented foundations of RL methods in a python language from the scratch : value iteration, policy iteration, q-learning, SARSA, EV-SARSA. 
+Implemented foundations of RL methods in the Python language from the scratch : value iteration, policy iteration, q-learning, SARSA, EV-SARSA. 
 
 Thanks to ([Sutton & Barto Book: Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)
 
