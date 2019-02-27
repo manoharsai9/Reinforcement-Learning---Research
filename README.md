@@ -6,5 +6,5 @@ Thanks to ([Sutton & Barto Book: Reinforcement Learning: An Introduction](http:/
 
 
 ![alt RL](https://cdn-images-1.medium.com/max/1600/1*Z2yMvuQ1-t5Ol1ac_W4dOQ.png) 
-[Reinforcement Learning loop (source: nervana systems)]
+
 
